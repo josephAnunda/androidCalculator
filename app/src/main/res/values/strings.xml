@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">calculator</string>
+    <string name="button_six">6</string>
+    <string name="button_five">5</string>
+    <string name="button_dash">-</string>
+    <string name="button_four">4</string>
+
+    <string name="button_three">3</string>
+    <string name="button_sum">+</string>
+    <string name="button_one">1</string>
+    <string name="button_two">2</string>
+    <string name="button_seven">7</string>
+    <string name="button_nine">9</string>
+    <string name="button_eight">8</string>
+    <string name="button_multiply">*</string>
+    <string name="button_c">C</string>
+    <string name="button_0">0</string>
+    <string name="button_divide">/</string>
+    <string name="button_equal">=</string>
+    <string name="button_advance">ADVANCE - WITH HISTORY</string>
+    <string name="not_an_op">Not An Operator</string>
+    <string name="standard">Standard</string>
+    <string name="reminder">%</string>
+    <string name="power">POW</string>
+    <string name="maximum">MAX</string>
+    <string name="minimum">MIN</string>
+</resources>
